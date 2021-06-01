@@ -8,7 +8,7 @@ This is a dynamic programming problem described in the specified video.
 
 If interested in my comments I invite you to read he following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/06/02/best-sum/
 
 Please remember that one of the best ways to learn is to read and experiment.
 
